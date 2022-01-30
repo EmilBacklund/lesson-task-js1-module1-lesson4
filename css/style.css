@@ -1,14 +1,16 @@
 body {
-    background: #ebebeb;
+  background: #ebebeb;
 }
 
 .game-container {
-    display: flex;
+  display: flex;
+  max-width: 800px;
+  justify-content: space-between;
 }
 
 .game {
-    background: white;
-    border-radius: 1rem;
-    padding: 1rem;
-    margin: 1rem;
+  background: white;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: 1rem;
 }
